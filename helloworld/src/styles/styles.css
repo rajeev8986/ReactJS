@@ -1,0 +1,13 @@
+.App {
+ 
+    border-color:slateblues;
+    border-width: 10px;
+    background-color: tomato;
+    display: block;
+  
+}
+
+h1 {
+    background-color: springgreen;
+}
+
